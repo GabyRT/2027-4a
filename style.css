@@ -1,0 +1,14 @@
+.correct{
+  background:lime;
+}
+
+.incorrect{
+  background:red;
+}
+li{
+  color:Gray;
+}
+body{
+  background:lightblue;
+  font-family: "Times New Roman", Times, serif;
+}
